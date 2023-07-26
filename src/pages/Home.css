@@ -1,0 +1,529 @@
+h1 {
+  color: aqua;
+  position: absolute;
+
+  margin-top: -39px;
+
+}
+
+.container {
+
+  background-image: url(/src/pages/image/Background.png);
+
+}
+
+.h2 {
+  font-size: 25px;
+}
+
+.partie2 {
+  background-image: url(/src/pages/image/Background2.png);
+}
+
+.h3 {
+  background-Color: #1A237E;
+  color: #FFFFFF;
+  padding: 20px;
+}
+
+.partie3 {
+
+  padding-top: 80px;
+  margin-right: 250px;
+  margin-top: 10px;
+
+
+}
+
+.partie4 {
+
+
+  margin-right: 50px;
+  margin-top: 230px;
+  padding-left: 150px;
+}
+
+.partie6 {
+
+  padding-top: px;
+  margin-right: 100px;
+  margin-top: px;
+}
+
+.btn {
+  border-radius: 200px;
+
+
+}
+
+
+
+.partie7 {
+  background: #F2FFF8;
+  height: 150px;
+
+
+}
+
+.Pimg {
+  margin-left: 16px;
+
+}
+
+.grids {
+
+  display: grid;
+  grid-template-rows: 100px 200px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  align-items: center;
+  grid-gap: 10px;
+  background-size: cover;
+  background-color: #fff;
+  font-weight: bolder;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+}
+
+
+.grid {
+  background-color: #fff;
+  height: 70px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+
+}
+
+.Our {
+  font-size: 40px;
+  font-style: normal;
+}
+
+.back {
+
+  background: #FCF1E1;
+  height: 450px;
+  border-radius: 150px;
+  padding-top: 200px;
+  margin-top: 100px;
+
+}
+
+.iba {
+
+  width: auto;
+  width: 10px;
+  padding-left: 150px;
+  margin-top: -372px;
+
+}
+
+.back2 {
+  background: #fdfdfd;
+  height: 70px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  width: 160px;
+  margin-top: -280px;
+  margin-left: -50px;
+  border-radius: 10px;
+}
+
+.back3 {
+  background: #fdfdfd;
+  height: 90px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  width: 180px;
+  margin-top: -280px;
+  margin-left: 500px;
+  border-radius: 10px;
+}
+
+.pattern1 {
+  border-radius: 10%;
+  margin-top: -16px;
+  margin-left: 20px;
+
+
+}
+
+.pattern2 {
+  border-radius: 10%;
+  margin-top: -38px;
+  margin-left: 60px
+}
+
+.pattern3 {
+  border-radius: 10%;
+  margin-top: -38px;
+  margin-left: 92px
+}
+
+.pattern4 {
+  border-radius: 10%;
+  margin-top: -38px;
+  margin-left: 130px;
+}
+
+.sect4 {
+  margin-top: 180px;
+
+
+}
+
+.background3 {
+  background-image: url(/src/pages/image/Background3.png);
+  background-repeat: no-repeat;
+  padding-top: 50px;
+}
+
+.sect5 {
+  margin-top: 150px;
+
+
+}
+
+.section6 {
+  margin-top: 60px;
+  margin-left: 100px;
+}
+
+.section7 {
+  margin-top: 10px;
+  padding-top: -60px;
+}
+
+i {
+
+  margin-left: 350px;
+  font-weight: 150px;
+  color: rgb(8, 204, 18);
+  font-size: 30px;
+}
+
+
+
+.iconn1 {
+
+  background-color: hsl(148, 100%, 97%);
+  height: 210px;
+  margin-top: -150px;
+  border-radius: 25px;
+}
+
+.iconn12 {
+
+  height: 210px;
+  margin-top: -150px;
+  border-radius: 25px;
+}
+
+.petitincon1 {
+  padding-left: 59px;
+  padding-top: 30px;
+}
+
+.iconn2 {
+
+  background-color: hsl(148, 100%, 97%);
+  height: 210px;
+  margin-top: 30px;
+  border-radius: 25px;
+}
+
+button {
+  background-color: rgba(126, 238, 13, 0.904);
+  right: 150px;
+}
+
+.card1 {
+  
+  height: 190px;
+  width: 350px !important;
+  margin-left: 40px;
+  
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px 4px 6px rgb(0, 0, 0, 0.1);
+  text-align: center;
+
+
+
+}
+
+.cards {
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: #f2ecec;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 10px;
+
+}
+
+.cardes {
+  background-color: #F2FFF8;
+  background-size: cover;
+  margin-top: 90px;
+}
+
+.SOKHNA {
+  height: 250px;
+  border-radius: 10px;
+  background-color: rgb(232, 250, 250);
+  width: 95%;
+  margin-top: 90px;
+}
+
+.Icon {
+  margin-top: 60px;
+  margin-left: 20PX;
+}
+
+.Icon1 {
+  font-size: 1px;
+  width: 65px;
+  margin-top: 60px;
+  margin-left: 20px;
+
+}
+
+.sokhna {
+  margin-top: 109px;
+
+}
+
+.image1 {
+  border-radius: 15px;
+  width: 44px;
+  height: 44px;
+
+}
+.mbaye{
+margin-left: 280px;
+}
+.mbaye2{
+  padding-left: 320px;
+  margin-top: -36px;
+}
+.mbaye3{
+  
+  margin-top: 20px;
+  margin-left: -100px;
+}
+
+
+
+.text1{
+  margin-right: 20px;
+  padding-top: 70px;
+  margin-top: 70px;
+}
+h2{
+  font-size: 65px;
+  margin-left: 150PX;
+  padding-top: -150px;
+}
+h4{
+  text-align: center;
+  font-size: 50px;
+  padding-top: 20px;
+  margin-right: 50px;
+}
+.button3{
+padding-left: 150px;
+padding-top: 50px;
+}
+.Ozone{
+  
+  margin-left: 0px;
+}
+.Digital{
+margin-left: 0%;
+}
+.Digital3{
+
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+  
+  .Digital{
+    margin-left: 0px;
+  }
+  .Ozone{
+  margin-left: 0px;
+  }
+  .grids{
+    margin-left: 80px;
+  }
+  .SOKHNA{
+    margin-left: 80px;
+  }
+  .sokhna{
+    margin-left: 80px;
+  }
+  .iba{
+    margin-left: -80px;
+  }
+  .back3{
+    margin-left: 350px;
+  }
+  .back2{
+    margin-left:-10px;
+  }
+  .back{
+    margin-left:px;
+    width: 200px;
+  }
+  .Our{
+    margin-left: 100px;
+  }
+  .ibrahima{
+    margin-left: 80px;
+  }
+  
+  .cardes {
+    margin-left: 80px;
+    padding-top: 20px;
+ 
+  }
+  .cardees {
+    
+    padding-top: 55px;
+ 
+  }
+  .sect4{
+    margin-left: 110px;
+  }
+  .partie3{
+    margin-left: -118px;
+    margin-top: 400px;
+  }
+  .partie4{
+    margin-left: 110px;
+  
+  }
+
+  .mbaye{
+    margin-left: 60px;
+    }
+    .mbaye2{
+      margin-left: -440px;
+      margin-top: -36px;
+      right: -100px;
+      
+    }
+
+    .text1{
+      margin-left: 60px;
+    }
+    .texte2{
+      margin-left: 60px;
+    }
+    .Digital2{
+      margin-left: 60px;
+    }
+    .Feareted{
+      margin-left: 0px;
+    }
+
+}
+
+
+@media only screen and (min-width: 768px) and  (max-width: 1024px) {
+  .mbaye{
+    margin-left: 240px;
+    }
+    .mbaye2{
+      margin-left: -440px;
+      margin-top: -36px;
+      right: -150px;
+      
+    }
+
+    .grids{
+    margin-left: 80px;
+  }
+  .SOKHNA{
+margin-left: 80px;
+
+  }
+  .retouche{
+  width: 220px;
+  margin-left: 80px;
+  }
+  .retouche1{
+    width: 220px;
+    margin-left: 80px;
+    }
+  .sokhna{
+    margin-left: 70px;
+    margin-top: 160px;
+  }
+  .Digital3{
+    margin-left: 80px;
+margin-top: -40px;
+  }
+  .Digital2{
+    margin-left: 80px;
+margin-top: -40px;
+  }
+  .text1{
+    margin-left: 100px;
+  }
+
+ .cards{
+  margin-left:-1px;
+  
+  
+ }
+ .card1{
+  margin-left: 15px;
+  justify-content: space-between !important;
+  width: 300px !important;
+  
+ }
+ .cardes{
+  margin-left: 80px;
+  
+  
+
+ }
+ .cardees{
+  padding-top: 100px;
+ }
+
+}
+
+@media only screen and (max-width: 320px){
+
+  .mbaye{
+    margin-left: 60px;
+    }
+    .mbaye2{
+      margin-left: -440px;
+      margin-top: -36px;
+      right: -150px;
+      
+    }
+
+    
+}
+
+@media only screen and (max-width: 375px){
+
+  .mbaye{
+    margin-left: 60px;
+    }
+    .mbaye2{
+      margin-left: -440px;
+      margin-top: -36px;
+      right: -150px;
+      
+    }
+
+    
+}
+
+
