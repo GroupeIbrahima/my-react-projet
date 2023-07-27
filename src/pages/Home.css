@@ -522,8 +522,27 @@ margin-top: -40px;
       right: -150px;
       
     }
-
+  
     
 }
+@media only screen and (max-width: 425px){
+
+  .mbaye{
+    margin-left: -30px;
+    padding-top: 90px;
+    
+    }
+    .mbaye2{
+      margin-left: -440px;
+      margin-top: -36px;
+      right: -15px;
+      
+    }
+    
+    
+  
+    
+}
+
 
 
