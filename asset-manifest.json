@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-react-projet/static/css/main.0cabcb88.css",
+    "main.css": "/my-react-projet/static/css/main.51068170.css",
     "main.js": "/my-react-projet/static/js/main.c3abdc8d.js",
     "static/media/fa-solid-900.ttf": "/my-react-projet/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/Cover Image.png": "/my-react-projet/static/media/Cover Image.109ce465801d7343d472.png",
@@ -18,11 +18,11 @@
     "static/media/fa-v4compatibility.ttf": "/my-react-projet/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/my-react-projet/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/my-react-projet/index.html",
-    "main.0cabcb88.css.map": "/my-react-projet/static/css/main.0cabcb88.css.map",
+    "main.51068170.css.map": "/my-react-projet/static/css/main.51068170.css.map",
     "main.c3abdc8d.js.map": "/my-react-projet/static/js/main.c3abdc8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cabcb88.css",
+    "static/css/main.51068170.css",
     "static/js/main.c3abdc8d.js"
   ]
 }
